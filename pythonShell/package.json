@@ -1,0 +1,16 @@
+{
+  "name": "node_python",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shell.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "python-shell": "^0.4.0",
+    "thread-sleep": "^2.0.0",
+    "threads": "^0.10.0"
+  }
+}
